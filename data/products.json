@@ -1,0 +1,468 @@
+{
+  "categories": [
+    "T-Shirt",
+    "Polo",
+    "Drop Shoulder",
+    "Hoodie",
+    "Jacket"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "products": [
+    {
+      "id": "classic-cotton-tee",
+      "name": "Classic Cotton Tee",
+      "category": "T-Shirt",
+      "price": 450,
+      "oldPrice": 600,
+      "tag": "-25%",
+      "description": "Soft 100% combed cotton tee with a regular fit. Breathable and perfect for everyday wear.",
+      "images": [
+        "assets/products/classic-cotton-tee/1.jpg",
+        "assets/products/classic-cotton-tee/2.jpg",
+        "assets/products/classic-cotton-tee/3.jpg",
+        "assets/products/classic-cotton-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "essential-black-tee",
+      "name": "Essential Black Tee",
+      "category": "T-Shirt",
+      "price": 420,
+      "oldPrice": 520,
+      "tag": "-20%",
+      "description": "A wardrobe staple in deep black. Premium fabric that keeps its shape wash after wash.",
+      "images": [
+        "assets/products/essential-black-tee/1.jpeg",
+        "assets/products/essential-black-tee/2.png",
+        "assets/products/essential-black-tee/3.png",
+        "assets/products/essential-black-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "basic-white-tee",
+      "name": "Basic White Tee",
+      "category": "T-Shirt",
+      "price": 400,
+      "oldPrice": 500,
+      "tag": "",
+      "description": "Clean white cotton tee that goes with everything.",
+      "images": [
+        "assets/products/basic-white-tee/1.jpg",
+        "assets/products/basic-white-tee/2.jpg",
+        "assets/products/basic-white-tee/3.jpg",
+        "assets/products/basic-white-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "striped-crew-tee",
+      "name": "Striped Crew Tee",
+      "category": "T-Shirt",
+      "price": 480,
+      "oldPrice": 600,
+      "tag": "-20%",
+      "description": "Casual striped crew neck tee in soft jersey cotton.",
+      "images": [
+        "assets/products/striped-crew-tee/1.jpg",
+        "assets/products/striped-crew-tee/2.jpg",
+        "assets/products/striped-crew-tee/3.jpg",
+        "assets/products/striped-crew-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "graphic-print-tee",
+      "name": "Graphic Print Tee",
+      "category": "T-Shirt",
+      "price": 520,
+      "oldPrice": 650,
+      "tag": "New",
+      "description": "Bold graphic print on premium cotton.",
+      "images": [
+        "assets/products/graphic-print-tee/1.jpg",
+        "assets/products/graphic-print-tee/2.jpg",
+        "assets/products/graphic-print-tee/3.jpg",
+        "assets/products/graphic-print-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "v-neck-tee",
+      "name": "V-Neck Tee",
+      "category": "T-Shirt",
+      "price": 430,
+      "oldPrice": 0,
+      "tag": "",
+      "description": "Slim V-neck tee, lightweight and breathable.",
+      "images": [
+        "assets/products/v-neck-tee/1.jpg",
+        "assets/products/v-neck-tee/2.jpg",
+        "assets/products/v-neck-tee/3.jpg",
+        "assets/products/v-neck-tee/4.jpg"
+      ]
+    },
+    {
+      "id": "pique-polo",
+      "name": "Pique Polo",
+      "category": "Polo",
+      "price": 750,
+      "oldPrice": 900,
+      "tag": "-15%",
+      "description": "Classic pique polo with a clean collar and a smart-casual look.",
+      "images": [
+        "assets/products/pique-polo/1.jpg",
+        "assets/products/pique-polo/2.jpg",
+        "assets/products/pique-polo/3.jpg",
+        "assets/products/pique-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "sport-polo",
+      "name": "Sport Polo",
+      "category": "Polo",
+      "price": 680,
+      "oldPrice": 0,
+      "tag": "Bestseller",
+      "description": "Lightweight, quick-dry polo made for active days.",
+      "images": [
+        "assets/products/sport-polo/1.jpg",
+        "assets/products/sport-polo/2.jpg",
+        "assets/products/sport-polo/3.jpg",
+        "assets/products/sport-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "classic-white-polo",
+      "name": "Classic White Polo",
+      "category": "Polo",
+      "price": 720,
+      "oldPrice": 0,
+      "tag": "",
+      "description": "Timeless white polo with a crisp collar.",
+      "images": [
+        "assets/products/classic-white-polo/1.jpg",
+        "assets/products/classic-white-polo/2.jpg",
+        "assets/products/classic-white-polo/3.jpg",
+        "assets/products/classic-white-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "striped-polo",
+      "name": "Striped Polo",
+      "category": "Polo",
+      "price": 790,
+      "oldPrice": 950,
+      "tag": "-15%",
+      "description": "Smart striped polo for casual and office days.",
+      "images": [
+        "assets/products/striped-polo/1.jpg",
+        "assets/products/striped-polo/2.jpg",
+        "assets/products/striped-polo/3.jpg",
+        "assets/products/striped-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "contrast-collar-polo",
+      "name": "Contrast Collar Polo",
+      "category": "Polo",
+      "price": 820,
+      "oldPrice": 0,
+      "tag": "New",
+      "description": "Polo with a contrast collar and sleeve trim.",
+      "images": [
+        "assets/products/contrast-collar-polo/1.jpg",
+        "assets/products/contrast-collar-polo/2.jpg",
+        "assets/products/contrast-collar-polo/3.jpg",
+        "assets/products/contrast-collar-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "long-sleeve-polo",
+      "name": "Long Sleeve Polo",
+      "category": "Polo",
+      "price": 890,
+      "oldPrice": 1050,
+      "tag": "-15%",
+      "description": "Long sleeve polo for cooler days.",
+      "images": [
+        "assets/products/long-sleeve-polo/1.jpg",
+        "assets/products/long-sleeve-polo/2.jpg",
+        "assets/products/long-sleeve-polo/3.jpg",
+        "assets/products/long-sleeve-polo/4.jpg"
+      ]
+    },
+    {
+      "id": "oversized-drop-shoulder",
+      "name": "Oversized Embroidered Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 650,
+      "oldPrice": 800,
+      "tag": "-20%",
+      "description": "Relaxed oversized fit with dropped shoulders and heavy-weight cotton.",
+      "images": [
+        "assets/products/oversized-drop-shoulder/1.png",
+        "assets/products/oversized-drop-shoulder/2.png",
+        "assets/products/oversized-drop-shoulder/3.png",
+        "assets/products/oversized-drop-shoulder/4.png"
+      ]
+    },
+    {
+      "id": "street-drop-shoulder",
+      "name": "Street Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 690,
+      "oldPrice": 0,
+      "tag": "New",
+      "description": "Streetwear-ready drop shoulder tee with a boxy silhouette.",
+      "images": [
+        "assets/products/street-drop-shoulder/1.jpg",
+        "assets/products/street-drop-shoulder/2.jpg",
+        "assets/products/street-drop-shoulder/3.jpg",
+        "assets/products/street-drop-shoulder/4.jpg"
+      ]
+    },
+    {
+      "id": "acid-wash-drop-shoulder",
+      "name": "Acid Wash Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 720,
+      "oldPrice": 900,
+      "tag": "-20%",
+      "description": "Trendy acid wash finish with a relaxed drop shoulder fit.",
+      "images": [
+        "assets/products/acid-wash-drop-shoulder/1.jpg",
+        "assets/products/acid-wash-drop-shoulder/2.jpg",
+        "assets/products/acid-wash-drop-shoulder/3.jpg",
+        "assets/products/acid-wash-drop-shoulder/4.jpg"
+      ]
+    },
+    {
+      "id": "back-print-drop-shoulder",
+      "name": "Back Print Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 700,
+      "oldPrice": 0,
+      "tag": "New",
+      "description": "Oversized tee with a statement back print.",
+      "images": [
+        "assets/products/back-print-drop-shoulder/1.jpg",
+        "assets/products/back-print-drop-shoulder/2.jpg",
+        "assets/products/back-print-drop-shoulder/3.jpg",
+        "assets/products/back-print-drop-shoulder/4.jpg"
+      ]
+    },
+    {
+      "id": "ribbed-drop-shoulder",
+      "name": "Ribbed Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 680,
+      "oldPrice": 0,
+      "tag": "",
+      "description": "Textured rib fabric with a modern boxy cut.",
+      "images": [
+        "assets/products/ribbed-drop-shoulder/1.jpg",
+        "assets/products/ribbed-drop-shoulder/2.jpg",
+        "assets/products/ribbed-drop-shoulder/3.jpg",
+        "assets/products/ribbed-drop-shoulder/4.jpg"
+      ]
+    },
+    {
+      "id": "pocket-drop-shoulder",
+      "name": "Pocket Drop Shoulder",
+      "category": "Drop Shoulder",
+      "price": 660,
+      "oldPrice": 820,
+      "tag": "-20%",
+      "description": "Heavy cotton drop shoulder tee with a chest pocket.",
+      "images": [
+        "assets/products/pocket-drop-shoulder/1.jpg",
+        "assets/products/pocket-drop-shoulder/2.jpg",
+        "assets/products/pocket-drop-shoulder/3.jpg",
+        "assets/products/pocket-drop-shoulder/4.jpg"
+      ]
+    },
+    {
+      "id": "fleece-hoodie",
+      "name": "Fleece Hoodie",
+      "category": "Hoodie",
+      "price": 1350,
+      "oldPrice": 1600,
+      "tag": "-15%",
+      "description": "Warm brushed-fleece hoodie with kangaroo pocket and adjustable drawstring.",
+      "images": [
+        "assets/products/fleece-hoodie/1.jpg",
+        "assets/products/fleece-hoodie/2.jpg",
+        "assets/products/fleece-hoodie/3.jpg",
+        "assets/products/fleece-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "zip-up-hoodie",
+      "name": "Zip-Up Hoodie",
+      "category": "Hoodie",
+      "price": 1450,
+      "oldPrice": 1700,
+      "tag": "-15%",
+      "description": "Full zip hoodie in soft brushed fleece.",
+      "images": [
+        "assets/products/zip-up-hoodie/1.jpg",
+        "assets/products/zip-up-hoodie/2.jpg",
+        "assets/products/zip-up-hoodie/3.jpg",
+        "assets/products/zip-up-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "oversized-hoodie",
+      "name": "Oversized Hoodie",
+      "category": "Hoodie",
+      "price": 1500,
+      "oldPrice": 0,
+      "tag": "New",
+      "description": "Relaxed oversized hoodie with dropped shoulders.",
+      "images": [
+        "assets/products/oversized-hoodie/1.jpg",
+        "assets/products/oversized-hoodie/2.jpg",
+        "assets/products/oversized-hoodie/3.jpg",
+        "assets/products/oversized-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "graphic-print-hoodie",
+      "name": "Graphic Print Hoodie",
+      "category": "Hoodie",
+      "price": 1400,
+      "oldPrice": 1650,
+      "tag": "-15%",
+      "description": "Comfortable hoodie with a bold front graphic.",
+      "images": [
+        "assets/products/graphic-print-hoodie/1.jpg",
+        "assets/products/graphic-print-hoodie/2.jpg",
+        "assets/products/graphic-print-hoodie/3.jpg",
+        "assets/products/graphic-print-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "heavyweight-hoodie",
+      "name": "Heavyweight Hoodie",
+      "category": "Hoodie",
+      "price": 1650,
+      "oldPrice": 0,
+      "tag": "Bestseller",
+      "description": "Thick heavyweight cotton for the coldest days.",
+      "images": [
+        "assets/products/heavyweight-hoodie/1.jpg",
+        "assets/products/heavyweight-hoodie/2.jpg",
+        "assets/products/heavyweight-hoodie/3.jpg",
+        "assets/products/heavyweight-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "tech-fleece-hoodie",
+      "name": "Tech Fleece Hoodie",
+      "category": "Hoodie",
+      "price": 1750,
+      "oldPrice": 2100,
+      "tag": "-15%",
+      "description": "Sleek tech fleece hoodie with a tapered fit.",
+      "images": [
+        "assets/products/tech-fleece-hoodie/1.jpg",
+        "assets/products/tech-fleece-hoodie/2.jpg",
+        "assets/products/tech-fleece-hoodie/3.jpg",
+        "assets/products/tech-fleece-hoodie/4.jpg"
+      ]
+    },
+    {
+      "id": "zip-bomber-jacket",
+      "name": "Zip Bomber Jacket",
+      "category": "Jacket",
+      "price": 2250,
+      "oldPrice": 2800,
+      "tag": "-20%",
+      "description": "Modern bomber jacket with a full zip, ribbed cuffs and a smooth lining.",
+      "images": [
+        "assets/products/zip-bomber-jacket/1.jpg",
+        "assets/products/zip-bomber-jacket/2.jpg",
+        "assets/products/zip-bomber-jacket/3.jpg",
+        "assets/products/zip-bomber-jacket/4.jpg"
+      ]
+    },
+    {
+      "id": "denim-jacket",
+      "name": "Denim Jacket",
+      "category": "Jacket",
+      "price": 2450,
+      "oldPrice": 2900,
+      "tag": "-15%",
+      "description": "Classic denim jacket with a modern fit.",
+      "images": [
+        "assets/products/denim-jacket/1.jpg",
+        "assets/products/denim-jacket/2.jpg",
+        "assets/products/denim-jacket/3.jpg",
+        "assets/products/denim-jacket/4.jpg"
+      ]
+    },
+    {
+      "id": "windbreaker-jacket",
+      "name": "Windbreaker Jacket",
+      "category": "Jacket",
+      "price": 1950,
+      "oldPrice": 0,
+      "tag": "",
+      "description": "Light water-resistant windbreaker with hood.",
+      "images": [
+        "assets/products/windbreaker-jacket/1.jpg",
+        "assets/products/windbreaker-jacket/2.jpg",
+        "assets/products/windbreaker-jacket/3.jpg",
+        "assets/products/windbreaker-jacket/4.jpg"
+      ]
+    },
+    {
+      "id": "varsity-jacket",
+      "name": "Varsity Jacket",
+      "category": "Jacket",
+      "price": 2650,
+      "oldPrice": 3200,
+      "tag": "-20%",
+      "description": "Retro varsity jacket with ribbed collar and cuffs.",
+      "images": [
+        "assets/products/varsity-jacket/1.jpg",
+        "assets/products/varsity-jacket/2.jpg",
+        "assets/products/varsity-jacket/3.jpg",
+        "assets/products/varsity-jacket/4.jpg"
+      ]
+    },
+    {
+      "id": "puffer-jacket",
+      "name": "Puffer Jacket",
+      "category": "Jacket",
+      "price": 2950,
+      "oldPrice": 3500,
+      "tag": "-15%",
+      "description": "Warm quilted puffer jacket for winter.",
+      "images": [
+        "assets/products/puffer-jacket/1.jpg",
+        "assets/products/puffer-jacket/2.jpg",
+        "assets/products/puffer-jacket/3.jpg",
+        "assets/products/puffer-jacket/4.jpg"
+      ]
+    },
+    {
+      "id": "coach-jacket",
+      "name": "Coach Jacket",
+      "category": "Jacket",
+      "price": 2150,
+      "oldPrice": 0,
+      "tag": "New",
+      "description": "Snap-button coach jacket in smooth nylon.",
+      "images": [
+        "assets/products/coach-jacket/1.jpg",
+        "assets/products/coach-jacket/2.jpg",
+        "assets/products/coach-jacket/3.jpg",
+        "assets/products/coach-jacket/4.jpg"
+      ]
+    }
+  ]
+}
